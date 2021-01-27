@@ -1,17 +1,4 @@
-/*
 
-Var numero, fatorial, contador : inteiro
- 
-escreval("digite o numero para calcula o fatorial :")
-leia (numero)
-   fatorial := 1
-   para contador de 1 ate numero faca
-        fatorial := fatorial * contador
-fimpara
-   
-escreval("o fatorial de ", numero, " é: ", fatorial)
-
-*/
 
 function acaoBotao(params) {
  
